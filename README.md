@@ -11,19 +11,17 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <li>Provide user (age 3+) early childhood education in music through our product</li>
 </ul>
 
-
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/70442354/202714034-bfcc0dcd-b509-4864-9ac5-10fb3aeae0db.png">
-
 <h3>Workflow and Platforms</h3>
 <img width="1107" alt="Screenshot 2022-11-18 at 9 31 12 PM" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
 
 
-<h3>Coding Diagram</h3>
+<h3>Coding Diagram</h3><br>
 <img width="1054" alt="CodingDiagram" src="https://user-images.githubusercontent.com/70442354/202718257-15d30e14-45c8-46e4-a838-940086d94f7d.png">
 
 <h3>Product Design</h3>
-![electronics](https://user-images.githubusercontent.com/70442354/202718292-2cc85898-049a-4bb9-a57e-a2de81ae16e3.jpg)
-![IMG_9305](https://user-images.githubusercontent.com/70442354/202718312-e30f8297-fd22-4d36-8631-6a9017337f0d.jpg)
+
+![electronics](https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg)
+
 
 <h3>Final Product</h3>
 ![20210510_184953](https://user-images.githubusercontent.com/70442354/202718431-77ea9c1d-14c7-4e20-adf1-23156a46b6f1.JPG)
