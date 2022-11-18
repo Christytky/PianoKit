@@ -30,7 +30,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 
 
 <br><h3>Demonstration</h3>
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/_ltfEAWUCWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](https://youtu.be/_ltfEAWUCWY)
+https://www.youtube.com/embed/_ltfEAWUCWY
 
 <br><h3>Summary</h3>
 <img src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
