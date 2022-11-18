@@ -12,7 +12,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 </ul><br>
 
 <h3>Workflow and Platforms</h3><br>
-<img width="800" style="margin:auto; alt="Screenshot 2022-11-18 at 9 31 12 PM" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
+<img width="800" style="margin:auto;" alt="Screenshot 2022-11-18 at 9 31 12 PM" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
 
 
 <h3>Coding Diagram</h3><br>
