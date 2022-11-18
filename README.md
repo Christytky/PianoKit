@@ -20,19 +20,19 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <br>
 
 <h3>Product Development</h3>
-<p>ELectronics</p>
+<p><u>ELectronics</u></p>
 <img width="360" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
-<p>Product Design</p>
+<p><u>Product Design</u></p>
 <img width="360" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg">
 
-<h3>Final Product</h3>
+<br><h3>Final Product</h3>
 <img width="800" alt="FinalProduct" src="https://user-images.githubusercontent.com/70442354/202721135-bc235603-2c91-4d22-b806-61f656508d06.png">
 
 
-<h3>Demonstration</h3>
+<br><h3>Demonstration</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ltfEAWUCWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Summary</h3>
+<br><h3>Summary</h3>
 <img src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
 
 
