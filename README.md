@@ -20,19 +20,19 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 
 <h3>Product Design</h3>
 <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
-![IMG_9305](https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg)
+<img src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg">
 
 
 <h3>Final Product</h3>
-![20210510_184953](https://user-images.githubusercontent.com/70442354/202719066-f5f55e6f-5c93-46e8-8a5d-aa161e6c38fc.JPG)
+<img src="https://user-images.githubusercontent.com/70442354/202719066-f5f55e6f-5c93-46e8-8a5d-aa161e6c38fc.JPG">
 
-![product](https://user-images.githubusercontent.com/70442354/202718425-352af8fe-0094-4a20-b870-7e7165fc50a8.gif)
+<img src="https://user-images.githubusercontent.com/70442354/202718425-352af8fe-0094-4a20-b870-7e7165fc50a8.gif">
 
 <h3>Demonstration</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ltfEAWUCWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Summary</h3>
-![pianokitplus_one_page_pitch2](https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG)
+<img src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
 
 
 <br><i>Special thanks to my team members - Mandy, David & Colton</i><br>
