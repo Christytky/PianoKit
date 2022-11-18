@@ -19,41 +19,23 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <img width="800" alt="CodingDiagram" src="https://user-images.githubusercontent.com/70442354/202718257-15d30e14-45c8-46e4-a838-940086d94f7d.png">
 <br>
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<h3>Final Product</h3>
-
-<div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg" style="width:20%">
-  </div>
-  <div class="column">
-    <img alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png" style="width:20%">
-  </div>
-</div>
 <h3>Product Development</h3>
+<table>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td><img width="400" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg"></td>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+</table>
+
+
 <img width="400" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
 <img width="400" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg">
 <img width="513" alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png">
