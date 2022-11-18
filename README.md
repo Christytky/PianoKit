@@ -44,13 +44,13 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg" style="width:33.3%">
+    <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg" style="width:20%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg" style="width:33.3%">
+    <img src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg" style="width:20%">
   </div>
   <div class="column">
-    <img alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png" style="width:33.3%">
+    <img alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png" style="width:20%">
   </div>
 </div>
 <h3>Product Development</h3>
