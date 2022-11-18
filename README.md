@@ -20,7 +20,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <br>
 
 <h3>Product Development</h3>
-<table border="0">
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td><img width="400" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg"></td>
     <td><img width="400" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg"></td>
