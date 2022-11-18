@@ -22,16 +22,10 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <h3>Product Development</h3>
 <table>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Electronics</td>
     <td><img width="400" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg"></td>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td><img width="400" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg"></td>
+    <td><img width="513" alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png"></td>
   </tr>
 </table>
 
