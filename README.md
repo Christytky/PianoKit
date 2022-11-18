@@ -22,6 +22,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <img width="400" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
 <img width="400" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg">
 <img width="400" src="https://user-images.githubusercontent.com/70442354/202719066-f5f55e6f-5c93-46e8-8a5d-aa161e6c38fc.JPG">
+<img width="513" alt="elec app_cropJPG" src="https://user-images.githubusercontent.com/70442354/202722257-6441184f-51c9-4994-a0a1-239fd9433d3f.png">
 
 
 <h3>Final Product</h3>
