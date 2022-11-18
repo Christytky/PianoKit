@@ -12,11 +12,11 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 </ul><br>
 
 <h3>Workflow and Platforms</h3><br>
-<img width="800" alt="Screenshot 2022-11-18 at 9 31 12 PM" class="center" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
+<img width="800" alt="Screenshot 2022-11-18 at 9 31 12 PM" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
 
 
 <h3>Coding Diagram</h3><br>
-<img width="800" alt="CodingDiagram" class="center" src="https://user-images.githubusercontent.com/70442354/202718257-15d30e14-45c8-46e4-a838-940086d94f7d.png">
+<img width="800" alt="CodingDiagram" src="https://user-images.githubusercontent.com/70442354/202718257-15d30e14-45c8-46e4-a838-940086d94f7d.png">
 
 <br>
 <h3>Product Development</h3>
@@ -33,7 +33,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ltfEAWUCWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Summary</h3>
-<img class="center" src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
+<img src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
 
 
 <br><i>Special thanks to my team members - Mandy, David & Colton</i><br>
