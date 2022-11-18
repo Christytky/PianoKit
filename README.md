@@ -9,9 +9,9 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
   <li>Apply Machine Learning in Music</li>
 <li>Create a fusion STEM toy with the background of Machine Learning & Engineering</li>
 <li>Provide user (age 3+) early childhood education in music through our product</li>
-</ul>
+</ul><br>
 
-<h3>Workflow and Platforms</h3>
+<h3>Workflow and Platforms</h3><br>
 <img width="1107" alt="Screenshot 2022-11-18 at 9 31 12 PM" src="https://user-images.githubusercontent.com/70442354/202718268-172d88c1-18dc-408c-be05-e4a4463812d7.png">
 
 
@@ -19,7 +19,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 <img width="1054" alt="CodingDiagram" src="https://user-images.githubusercontent.com/70442354/202718257-15d30e14-45c8-46e4-a838-940086d94f7d.png">
 
 <h3>Product Design</h3>
-![electronics](https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg)
+<img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
 ![IMG_9305](https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg)
 
 
@@ -35,6 +35,5 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 ![pianokitplus_one_page_pitch2](https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG)
 
 
-<br><i>Special thanks to my team members - Mandy, David & Colton</i>
-<br><br>
+<br><i>Special thanks to my team members - Mandy, David & Colton</i><br>
 <h4><i>“People who are really serious about software should make their own hardware” --- Alan Kay</i></h4>
