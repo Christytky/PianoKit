@@ -44,7 +44,7 @@ An interactive piano for kids to explore & engage in music | Machine Learning ba
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg" style="width:50%">
   </div>
   <div class="column">
     <img src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg" style="width:100%">
