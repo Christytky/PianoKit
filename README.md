@@ -5,7 +5,7 @@ An interactive piano for kids to explore &amp; engage in music (Developed in May
 <br><br>
 In this project, I worked with my team to design an interactive piano for kids. 
 
-<h3><u>Project Goal</u></h3>
+<h3>Project Goal</h3>
 <ul>
   <li>Apply Machine Learning in Music</li>
 <li>Create a fusion STEM toy with the background of Machine Learning & Engineering</li>
@@ -17,4 +17,4 @@ In this project, I worked with my team to design an interactive piano for kids.
 
 <br>I am mainly responsible for the hardware part, including arduino coding, Bluetooth connection (signal transmittion between App and Bluetooth Low Energy / BLE device by GATT), electronic development and product design.
 <br><br>
-“People who are really serious about software should make their own hardware” --- Alan Kay
+<i>“People who are really serious about software should make their own hardware” --- Alan Kay</i>
