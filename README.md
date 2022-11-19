@@ -21,7 +21,7 @@ An interactive piano for kids to explore & engage in music || Machine Learning b
 <br>
 
 <h3>Product Development</h3>
-<p><u>ELectronics</u></p>
+<p><u>Electronics (Arduino Uno, Bluetooth, buzzer, LEDs, capacitive touch)</u></p>
 <img width="300" src="https://user-images.githubusercontent.com/70442354/202718797-dcbd54b3-c0a7-4495-a55a-d82d75cbbcd1.jpg">
 <p><u>Product Design</u></p>
 <img width="300" src="https://user-images.githubusercontent.com/70442354/202719517-a0311d77-fa33-47f7-a49b-94ed3775d62e.jpg">
