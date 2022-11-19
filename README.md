@@ -1,6 +1,6 @@
 # PianoKit+ - Stem Education Music Kit
 An interactive piano for kids to explore & engage in music || Machine Learning based Music Generator
-<br>- Developed in May 2021
+<br>- Developed this prototype in May 2021
 <br><br>
 ![banner](https://user-images.githubusercontent.com/70442354/202710242-745383c9-61d9-4cb7-979e-23f8b8df1caf.PNG)
 <br><br>
