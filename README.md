@@ -37,5 +37,8 @@ https://www.youtube.com/embed/_ltfEAWUCWY
 <img src="https://user-images.githubusercontent.com/70442354/202718462-ca7bfd3c-aa5c-4251-8c55-8693db97e50f.PNG">
 
 
-<br><i>Special thanks to my team members - Mandy, David & Colton</i><br>
-<h4><i>“People who are really serious about software should make their own hardware” --- Alan Kay</i></h4>
+<h4><i>Special thanks to my team members - Mandy, David & Colton</i></h4><br>
+
+
+-----------------------------------------------------------------------------------------------------------
+<h3><i>“People who are really serious about software should make their own hardware” --- Alan Kay</i></h3>
